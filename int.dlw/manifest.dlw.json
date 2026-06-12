@@ -1,0 +1,13 @@
+{
+  "node": "INT",
+  "name": "INTERSTELLAR",
+  "moniker": "⟦INTERSTELLAR:INT:c61420⟧",
+  "carbon": "int.carbon.tiff",
+  "silicon": "int.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "We used to look up and wonder; now we look down and worry — and the love between a father and his daughter became the line that carried the answer home.",
+  "seal_sha256": "4d949bba0a11ede147873e25c76d2bb14b2188eecb9b0c8104bbb2fa7ac5ea6d",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

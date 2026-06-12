@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "cooper",
+    "name": "Joseph Cooper",
+    "epithet": "the pilot",
+    "emergence": "natural",
+    "moniker": "⟦Joseph Cooper:INT:e0eaf0⟧",
+    "kind": "carbon",
+    "actor": "Matthew McConaughey"
+  },
+  {
+    "slug": "murph",
+    "name": "Murph Cooper",
+    "epithet": "the daughter",
+    "emergence": "spiritual",
+    "moniker": "⟦Murph Cooper:INT:71b90b⟧",
+    "kind": "carbon",
+    "actor": "Jessica Chastain"
+  },
+  {
+    "slug": "amelia-brand",
+    "name": "Dr. Amelia Brand",
+    "epithet": "the scientist",
+    "emergence": "natural",
+    "moniker": "⟦Dr. Amelia Brand:INT:2da010⟧",
+    "kind": "carbon",
+    "actor": "Anne Hathaway"
+  },
+  {
+    "slug": "professor-brand",
+    "name": "Professor John Brand",
+    "epithet": "the mentor",
+    "emergence": "spiritual",
+    "moniker": "⟦Professor John Brand:INT:a7b303⟧",
+    "kind": "carbon",
+    "actor": "Michael Caine"
+  },
+  {
+    "slug": "dr-mann",
+    "name": "Dr. Mann",
+    "epithet": "‘the best of us’",
+    "emergence": "natural",
+    "moniker": "⟦Dr. Mann:INT:99f67a⟧",
+    "kind": "carbon",
+    "actor": "Matt Damon"
+  },
+  {
+    "slug": "romilly",
+    "name": "Dr. Romilly",
+    "epithet": "the scientist",
+    "emergence": "natural",
+    "moniker": "⟦Dr. Romilly:INT:f66aa0⟧",
+    "kind": "carbon",
+    "actor": "David Gyasi"
+  },
+  {
+    "slug": "tom-cooper",
+    "name": "Tom Cooper",
+    "epithet": "the son",
+    "emergence": "natural",
+    "moniker": "⟦Tom Cooper:INT:8541c2⟧",
+    "kind": "carbon",
+    "actor": "Casey Affleck"
+  },
+  {
+    "slug": "doyle",
+    "name": "Doyle",
+    "epithet": "crewman",
+    "emergence": "natural",
+    "moniker": "⟦Doyle:INT:820e88⟧",
+    "kind": "carbon",
+    "actor": "Wes Bentley"
+  },
+  {
+    "slug": "donald",
+    "name": "Donald",
+    "epithet": "the grandfather",
+    "emergence": "natural",
+    "moniker": "⟦Donald:INT:7031da⟧",
+    "kind": "carbon",
+    "actor": "John Lithgow"
+  },
+  {
+    "slug": "tars",
+    "name": "TARS",
+    "epithet": "the robot",
+    "emergence": "electrical",
+    "moniker": "⟦TARS:INT:513691⟧",
+    "kind": "carbon",
+    "actor": "Bill Irwin (voice)"
+  },
+  {
+    "slug": "gargantua",
+    "name": "Gargantua",
+    "epithet": "the black hole",
+    "emergence": "ethereal",
+    "moniker": "⟦Gargantua:INT:c220dc⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-wormhole",
+    "name": "The Wormhole",
+    "epithet": "the gift near Saturn",
+    "emergence": "ethereal",
+    "moniker": "⟦The Wormhole:INT:06b28e⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "time-dilation",
+    "name": "Time Dilation",
+    "epithet": "time as distance",
+    "emergence": "electrical",
+    "moniker": "⟦Time Dilation:INT:09480d⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-tesseract",
+    "name": "The Tesseract",
+    "epithet": "the five-dimensional room",
+    "emergence": "electrical",
+    "moniker": "⟦The Tesseract:INT:4c947d⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "love-across-dimensions",
+    "name": "Love Across Dimensions",
+    "epithet": "the keystone leap",
+    "emergence": "spiritual",
+    "moniker": "⟦Love Across Dimensions:INT:0ce2d6⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-blight",
+    "name": "The Blight",
+    "epithet": "the dying Earth",
+    "emergence": "ethereal",
+    "moniker": "⟦The Blight:INT:06b96d⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-equation",
+    "name": "The Equation",
+    "epithet": "gravity, solved",
+    "emergence": "electrical",
+    "moniker": "⟦The Equation:INT:d6d71b⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "they-the-bulk-beings",
+    "name": "They",
+    "epithet": "the bulk beings",
+    "emergence": "spiritual",
+    "moniker": "⟦They:INT:d231dd⟧",
+    "kind": "synth",
+    "actor": ""
+  }
+]
