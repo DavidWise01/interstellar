@@ -9,5 +9,12 @@
   "seal": "We used to look up and wonder; now we look down and worry — and the love between a father and his daughter became the line that carried the answer home.",
   "seal_sha256": "4d949bba0a11ede147873e25c76d2bb14b2188eecb9b0c8104bbb2fa7ac5ea6d",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 680,
+    "prev": "bc804e986a919fd1961746ebd4c2ccb7d65318988457658c1e7689a36ffab2a3",
+    "link": "be7795539dc2f5d8d016d3cd14d64f75118c2ddd4b0051fdb3d3793a5efc223b",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }

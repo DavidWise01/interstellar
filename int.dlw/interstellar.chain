@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 680
+slug  : interstellar
+seal  : 4d949bba0a11ede147873e25c76d2bb14b2188eecb9b0c8104bbb2fa7ac5ea6d
+prev  : bc804e986a919fd1961746ebd4c2ccb7d65318988457658c1e7689a36ffab2a3
+link  : be7795539dc2f5d8d016d3cd14d64f75118c2ddd4b0051fdb3d3793a5efc223b
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
